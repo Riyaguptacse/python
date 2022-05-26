@@ -1,4 +1,3 @@
-
 import random
 #rock,paper, pencil, scissior
 def game(comp,user):
